@@ -1,1 +1,1 @@
-# ARIMA-TIme-Series-Forecasting
+# ARIMA-Time-Series-Forecasting
